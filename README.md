@@ -1,3 +1,4 @@
+<!-- .slide: data-background-color="white" -->
 # LEAP: Learning Temporally Causal Latent Processes from General Temporal Data
 
 ### Overview
