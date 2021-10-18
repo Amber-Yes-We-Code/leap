@@ -16,7 +16,7 @@ setup(
     description="The ltcl is a tool for discovering latent temporal causal factors",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/weirayao/ltcl",
+    url="https://github.com/anonymous-authors-iclr2022-481/leap",
     project_urls={
         "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
     },
